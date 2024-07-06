@@ -1,0 +1,94 @@
+body{
+  background: linear-gradient(to right, #0000FF, #800080);
+  margin: 0;
+}
+form{
+  border: 3px solid none;
+  border-radius: 10px;
+  padding: 40px;
+  width: 350px;
+  height: 550px;
+  margin: 0 auto;
+  margin-top: 70px;
+  background-color: white;
+}
+
+.div{
+  display: flex;
+  gap: 13px;
+  margin-left: 6px;
+}
+
+.input{
+  border: none; 
+}
+
+hr{
+  width: 350px;
+  margin-top: 6px;
+}
+
+h5{
+  text-align: right;
+  margin-top: 9px;
+}
+
+h1{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  margin-top: 1px;
+}
+
+h6{
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
+
+p{
+  text-align: center;
+}
+
+.label{
+  margin-left: 1px;
+  padding-bottom:100px;
+  font-family:monospace;
+}
+
+button{
+  margin-top: 5px;
+  width: 350px;
+  height: 37px;
+  border-radius: 30px;
+  background-color: #8000FF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.image{
+  display: flex;
+  gap: 10px;
+  width: 32px;
+  margin-left: 115px;
+  margin-top: 1px;
+}
+
+.foot{
+  margin-top: 100px;
+}
+
+.foot a{
+  margin-top: 100px;
+  margin-left: 142px;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
+
+.foot a:hover{
+  background-color: #8000FF;
+  border-radius: 10px;
+  padding: 7px;
+  border: none;
+}
